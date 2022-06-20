@@ -1,4 +1,7 @@
-# Code Refactor Starter Code
+# Description
+This is the solution code for Nicholas Conklin for Challenge 1.  My task was to refactor the starter code and satisfy the acceptance criteria below.
+
+## Code Refactor Starter Code
 Instructions for Module 1 Challenge:
 
 ## User Story
@@ -7,28 +10,28 @@ Instructions for Module 1 Challenge:
 - SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
-- GIVEN a webpage meets accessibility standards
+GIVEN a webpage meets accessibility standards
 - WHEN I view the source code
-- THEN I find semantic HTML elements
+  - THEN I find semantic HTML elements
 - WHEN I view the structure of the HTML elements
-- THEN I find that the elements follow a logical structure independent of styling and positioning
+  - THEN I find that the elements follow a logical structure independent of styling and positioning
 - WHEN I view the image elements
-- THEN I find accessible alt attributes
+  - THEN I find accessible alt attributes
 - WHEN I view the heading attributes
-- THEN they fall in sequential order
+  - THEN they fall in sequential order
 - WHEN I view the title element
-- THEN I find a concise, descriptive title
+  - THEN I find a concise, descriptive title
 
 ## How to Complete the Challenge
-- Follow these steps to complete the challenge:
+Follow these steps to complete the challenge:
 - Clone your starter code (Links to an external site.).
 - Refactor the code to meet the Acceptance Criteria.
 - Make sure your work meets the full list of grading requirements.
 - Follow the instructions to submit your Challenge for review.
 
 ## Grading Requirements
-- NOTE
-- If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
+NOTE
+If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 - A repository that has no code
 - A repository that includes a unique name but nothing else
 - A repository that includes only a README file but nothing else
@@ -58,6 +61,6 @@ Instructions for Module 1 Challenge:
 - Repository contains a quality README file with description, screenshot, and link to deployed application.
 
 ## How to Submit the Challenge
-- You are required to submit BOTH of the following for review:
+You are required to submit BOTH of the following for review:
 - The URL of the deployed application.
 - The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
