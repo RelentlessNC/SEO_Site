@@ -1,30 +1,16 @@
-# Description
+# Horiseon Website
 
-My task was to refactor the starter code and satisfy the acceptance criteria below.
+## [LIVE URL](https://relentlessnc.github.io/SEO_Site/)
 
-## Code Refactor Starter Code
+## Purpose
 
-Instructions for Module 1 Challenge:
+This website is to display proper use of tags and accessebility options.
 
-## User Story
+## Technologies Used
 
-```md
-- AS A marketing agency
-- I WANT a codebase that follows accessibility standards
-- SO THAT our own site is optimized for search engines
-```
+- HTML
+- CSS
 
-## Acceptance Criteria
+## Webpage Image
 
-```md
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+![Webpage Image](./assets/images/webpage.jpg)
